@@ -1,4 +1,4 @@
 # Projeto de reconstrução da página de login do instagram.
 
-Nesse desafio, reconstrui a página de login do instagram utilizando conceitos apredidos nas aulas de html, css e flexbox do Bootcamp da Dio._
+Nesse desafio, reconstruí a página de login do instagram utilizando conceitos aprendidos nas aulas de html, css e flexbox do Bootcamp da Dio._
 
